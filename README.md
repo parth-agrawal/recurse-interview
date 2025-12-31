@@ -1,4 +1,4 @@
-# pair-interview
+# recurse-interview
 
 To install dependencies:
 

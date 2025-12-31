@@ -1,5 +1,5 @@
 {
-  "name": "pair-interview",
+  "name": "recurse-interview",
   "module": "index.ts",
   "type": "module",
   "scripts": {

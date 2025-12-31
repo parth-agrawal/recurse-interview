@@ -171,7 +171,7 @@ app.listen({ port: 4000 }, () => {
 
 <file path="package.json">
 {
-  "name": "pair-interview",
+  "name": "recurse-interview",
   "module": "index.ts",
   "type": "module",
   "scripts": {
@@ -192,7 +192,7 @@ app.listen({ port: 4000 }, () => {
 </file>
 
 <file path="README.md">
-# pair-interview
+# recurse-interview
 
 To install dependencies:
 
