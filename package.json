@@ -1,0 +1,19 @@
+{
+  "name": "pair-interview",
+  "module": "index.ts",
+  "type": "module",
+  "scripts": {
+    "dev": "bun  --hot run index.ts"
+  },
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "@types/express": "^5.0.6",
+    "express": "^5.2.1"
+  }
+}
